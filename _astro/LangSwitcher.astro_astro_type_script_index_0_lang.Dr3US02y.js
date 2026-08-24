@@ -1,0 +1,1 @@
+import{s as e}from"./i18n.KgUW6OE-.js";for(const t of document.querySelectorAll("[data-site-language]"))t.dataset.bound||(t.dataset.bound="1",t.addEventListener("click",()=>e(t.dataset.siteLanguage)));
