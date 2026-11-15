@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mitfart.github.io/portfolio/sitemap.xml
